@@ -1,8 +1,8 @@
 title: Agility - Effective Programming
-description: > # this means to ignore newlines until "baseurl:"
-  Topics on agility
-baseurl: "/agility" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: >
+  Topics on Agile and Agility
+baseurl: "/agility"
+url: "http://effectiveprogramming.github.io"
 twitter_username: LutherBaker
 github_username:  LutherBaker
 
