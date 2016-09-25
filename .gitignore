@@ -1,0 +1,8 @@
+# Jekyll
+#
+# ignores irrelevant jekyll related files
+_site
+.sass-cache
+.jekyll-metadata
+.*
+
